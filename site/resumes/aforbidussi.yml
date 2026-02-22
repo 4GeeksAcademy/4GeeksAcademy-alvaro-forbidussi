@@ -90,12 +90,12 @@ projects:
     assignments:
       - title: Full Stack Web App
         project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-        link: "https://github.com/aforbidussi/proyecto-final"
+        link: Próximamente
         tagline: Aplicación integrada con React, Flask y PostgreSQL con sistema de autenticación JWT.
 
-      - title: "React Landing Page"
+      - title: React Landing Page
         project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-        link: "https://github.com/aforbidussi/react-project"
+        link: Próximamente
         tagline: Interfaz de usuario reactiva construida con componentes reutilizables y hooks avanzados.
 
 skills:
