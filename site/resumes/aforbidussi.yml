@@ -3,7 +3,7 @@ skin: blue
 
 # Personal Information
 basic_info:
-    first_name: Alvaro Franco
+    first_name: Álvaro Franco
     last_name: Abreu Forbidussi
     motto: Full Stack Developer & Web Architecture Enthusiast
     focus: Building Scalable Web Solutions
@@ -13,10 +13,10 @@ basic_info:
       
       Especializado en transformar diseños complejos en código limpio y eficiente, con un enfoque radical en el rendimiento y la escalabilidad del lado del servidor utilizando Python y Flask. Mi objetivo es aportar soluciones técnicas que equilibren una interfaz de usuario impecable con una arquitectura robusta.
 
-    avatar: https://photos.app.goo.gl/RiCetFryCtKUZ93FA
+    avatar: https://www.facebook.com/share/1HRDaQBaNW/
 
     # Contact Information
-    email: alvaroabreu917@gmail.com / alvaroforbidussi@gmail.com
+    email: alvaroabreu917@gmail.com
     phone: +34 634 38 81 89
     linkedin: https://www.linkedin.com/in/alvaro-forbidussi/
     github: aforbidussi
@@ -47,7 +47,6 @@ education:
           - Implementación de bases de datos relacionales con PostgreSQL.
           - Metodologías ágiles (SCRUM) y control de versiones con Git/GitHub.
 
-          education:
     - degree: Project Management
       university: Universidad de Oriente (Venezuela)
       university_logo: https://upload.wikimedia.org/wikipedia/commons/4/41/Logo_UDO.svg
@@ -74,7 +73,7 @@ education:
 experiences:
     - role: Web Editor & Layout Developer
       time: 2019 - 2025
-      company: https://worldenergywire.com/ - https://oscorptechnology.com/
+      company: https://worldenergywire.com/
       details: |
         Especialista en la implementación y mantenimiento de sitios web dinámicos.
           - Desarrollo y personalización de temas en WordPress y Joomla, optimizando la experiencia del usuario.
@@ -88,6 +87,11 @@ projects:
       Selección de proyectos desarrollados durante el Bootcamp, enfocados en resolver problemas reales con código escalable.
 
     assignments:
+      - title: Instagram Photo Feed
+        project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+        link: https://github.com/aforbidussi/Instagram-Photo-Feed-con-Bootstrap-Forbidussi
+        tagline: proyecto de maquetación web utilizando Bootstrap
+
       - title: Full Stack Web App
         project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
         link: Próximamente
@@ -101,14 +105,16 @@ projects:
 skills:
     toolset:
       - name: JavaScript (ES6+)
-        level: 90%
+        level: 55%
       - name: React.js
-        level: 85%
+        level: 50%
       - name: Python & Flask
-        level: 80%
+        level: 40%
       - name: HTML5 & CSS3 (Flexbox/Grid)
         level: 95%
+      - name: Bootstrap
+        level: 70%
       - name: SQL & Databases
-        level: 75%
+        level: 30%
       - name: WordPress/Joomla
         level: 85%
